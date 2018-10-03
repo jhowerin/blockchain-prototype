@@ -1,4 +1,5 @@
 # Decentralized Blockchain in Javascript  
+## Prototype
 
 ## How to run  
 * git clone repository
