@@ -14,7 +14,7 @@ http://localhost:3001/blockchain
 ```
 ### To mine blocks
 ```
-http://localhost:3001/blockchain
+http://localhost:3001/mine
 ```
 ### To explore blocks  
 ```
